@@ -1,4 +1,4 @@
 
-<? php
+<?php
 echo shell_exec("whoami");
 ?>
